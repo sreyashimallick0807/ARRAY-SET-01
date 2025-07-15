@@ -52,4 +52,4 @@ There are 20 Array basic solved code. The codes are:
 
 19. Replace all even numbers with -1
 
-20.Multiply all elements of the array
+20. Multiply all elements of the array
